@@ -1,0 +1,16 @@
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\bin\Debug\net5.0\tuplasExemplos.exe
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\bin\Debug\net5.0\tuplasExemplos.deps.json
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\bin\Debug\net5.0\tuplasExemplos.runtimeconfig.json
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\bin\Debug\net5.0\tuplasExemplos.runtimeconfig.dev.json
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\bin\Debug\net5.0\tuplasExemplos.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\bin\Debug\net5.0\ref\tuplasExemplos.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\bin\Debug\net5.0\tuplasExemplos.pdb
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\obj\Debug\net5.0\tuplasExemplos.csproj.AssemblyReference.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\obj\Debug\net5.0\tuplasExemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\obj\Debug\net5.0\tuplasExemplos.AssemblyInfoInputs.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\obj\Debug\net5.0\tuplasExemplos.AssemblyInfo.cs
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\obj\Debug\net5.0\tuplasExemplos.csproj.CoreCompileInputs.cache
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\obj\Debug\net5.0\tuplasExemplos.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\obj\Debug\net5.0\ref\tuplasExemplos.dll
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\obj\Debug\net5.0\tuplasExemplos.pdb
+C:\Users\rbonotto\Documents\Pessoal\Projetos\Git\tuplas-CSharp\tuplasExemplos\tuplasExemplos\obj\Debug\net5.0\tuplasExemplos.genruntimeconfig.cache
